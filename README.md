@@ -20,7 +20,7 @@ Atualmente, estou mergulhado no ecossistema Java, focando na construção de apl
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [ www.linkedin.com/in/flavio-sales-220354255](https://www.linkedin.com/in/fl%C3%A1vio-sales-dataeng-220354255/)
+- **LinkedIn:** [https://www.linkedin.com/in/flavio-sales-dev/](https://www.linkedin.com/in/fl%C3%A1vio-sales-dataeng-220354255/)
 - **Email:** [mensup19@gmail.com]
 
 ---
