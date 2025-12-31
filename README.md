@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Flávio Sales! 👋
 
-<!--
-**salessflavioo/salessflavioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Em transição de carreira para Desenvolvimento Back-end Java
 
-Here are some ideas to get you started:
+Atualmente, estou mergulhado no ecossistema Java, focando na construção de aplicações robustas e escaláveis. Meu objetivo é me tornar um Desenvolvedor Java focado em Spring Boot, aplicando as melhores práticas de engenharia de software desde o primeiro dia de aprendizado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ O que estou estudando no momento:
+- **Linguagem:** Java (Lógica de programação e Orientação a Objetos).
+- **Frameworks:** Iniciando em Spring Boot e Spring Data JPA.
+- **Banco de Dados:** SQL e modelagem com PostgreSQL.
+- **Ferramentas:** Git, GitHub e Docker para containerização.
+
+### 🎯 Meus Objetivos para 2026:
+- [ ] Construir minha primeira API REST completa com Spring Security.
+- [ ] Implementar testes unitários com JUnit e Mockito em todos os meus projetos.
+- [ ] Conquistar minha primeira oportunidade como Desenvolvedor Java Junior/Estagiário.
+
+---
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [ www.linkedin.com/in/flavio-sales-220354255](https://www.linkedin.com/in/fl%C3%A1vio-sales-dataeng-220354255/)
+- **Email:** [mensup19@gmail.com]
+
+---
+*“A consistência é o que transforma o aprendizado em maestria.”*
