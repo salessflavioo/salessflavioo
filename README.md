@@ -1,4 +1,4 @@
-# Olá, eu sou o Flavio Lopes Sales! 👋
+# Olá, eu sou o Flavio Sales! 👋
 
 ### 🚀 Em transição de carreira para Desenvolvimento Back-end Java
 
